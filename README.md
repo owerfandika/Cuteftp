@@ -214,4 +214,4 @@ CuteFTP is available as a full free version, providing all features and updates 
 Don't wait! Experience seamless file transfers with CuteFTP today. [Download CuteFTP Free](https://www.softyne.com/cuteftp) and unlock the full potential of your FTP operations!
 
 ---
-**Last updated:** 2026-09-26 12:57:29 UTC
+**Last updated:** 2026-09-26 17:04:16 UTC
